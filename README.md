@@ -1,7 +1,7 @@
 # Hello there 👋
-
-- [I am currently working on ft_transendence](https://github.com/The-AJE-Alliance/ft_transcendence)
 <!--
+- [I am currently working on ft_transendence](https://github.com/The-AJE-Alliance/ft_transcendence)
+
 ## 🛠️ Technical skills 
 ### Languages:<p align="left">
   <a href="https://skillicons.dev">
